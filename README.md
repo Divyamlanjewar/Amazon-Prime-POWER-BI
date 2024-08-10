@@ -1,3 +1,5 @@
-# Amazon-Prime-POWER-BI
- Power BI dashboard for Amazon Prime that provides comprehensive insights into the platform's media content, including genre distribution, viewer ratings, and trending shows and movies
- **Power BI dashboard for Amazon Prime that offers detailed insights into the platform's media library. This dashboard features visualizations of genre distribution, user ratings, and trending shows and movies, allowing users to analyze content performance and viewer engagement. Filters for genre, release year, and demographic information provide tailored insights. Advanced DAX functions such as FILTER, AVERAGEX, and IF are used for nuanced data analysis and precise calculations. This powerful tool aids strategic decision-making in content curation and marketing by highlighting key trends and viewer preferences**
+Problem Statement: Company wants to identify trends in movie releases, preferred genres, and content availability on the Amazon Prime platform to improve content curation and user satisfaction.
+
+Approach: Employed data modeling and visualization to decipher viewer preferences, assess ratings, and explore content diversity via Dashboards.
+
+Conclusion: The analysis reveals insights that facilitated strategic decision-making, aiding in content curation and enhancing user satisfaction within the Amazon Prime platform.
